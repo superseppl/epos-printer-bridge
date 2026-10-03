@@ -18,3 +18,10 @@ The helper installs only for the current Windows user (no administrator rights) 
 to printers in your local network, and collects no data.
 
 **Remove:** run `PrinterHelper.exe --uninstall` from that folder.
+
+## Test versions
+
+Test builds (Odoo Kasse desktop app for braeu, Chrome extension 1.1 for manual loading) are in
+the [test pre-releases](https://github.com/superseppl/epos-printer-bridge/releases).
+
+[Privacy policy / Datenschutzerklärung](PRIVACY.md)
